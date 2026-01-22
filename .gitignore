@@ -5,6 +5,11 @@ bin/
 # Eclipse metadata
 .metadata/
 
+# IDE files
+.classpath
+.project
+.settings/
+
 # OS files
 .DS_Store
 Thumbs.db
